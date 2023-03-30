@@ -1,6 +1,6 @@
 {
     "name": "fluent-ytdlp",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "description": "このプロジェクトは「node-fluent-ytdlp」として新たに公開されています。",
     "main": "index.js",
     "scripts": {},
