@@ -1,0 +1,25 @@
+{
+    "name": "fluent-ytdlp",
+    "version": "1.0.0",
+    "description": "このプロジェクトは「node-fluent-ytdlp」として公開されています。",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ybd-project/fluent-ytdlp.git"
+    },
+    "keywords": [
+        "yt-dlp",
+        "youtube-dl",
+        "downloader",
+        "nodejs",
+        "fluent-ytdlp",
+        "node-fluent-ytdlp"
+    ],
+    "author": "YBD Project",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ybd-project/fluent-ytdlp/issues"
+    },
+    "homepage": "https://github.com/ybd-project/fluent-ytdlp#readme"
+}
